@@ -1,6 +1,17 @@
 # Flask Stack Simulator startup template
 
-This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
+**Student Name:** Petras Rechell Ann  
+**Section:** BSIT WMT 4-2
+
+## Original Starter Repository
+
+https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter
+
+## Activity Description
+
+This activity involves exploring the Flask Stack Simulator starter files, reading the pre-demo activity, and answering the worksheet questions without completing the TODOs before the demonstration.
+
+This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first.
 
 ## Before the demonstration
 
@@ -23,5 +34,3 @@ This is the unfinished repository for a pre-demo reading activity. Read `Flask_P
 - requirements.txt: Flask dependency only.
 
 During the demo, the instructor will convert static paths into url_for calls, connect form submission, introduce Jinja variables and loops, and connect Python stack operations. The three HTML files are intentionally independent before that conversion.
-
-
